@@ -1,9 +1,3 @@
-"""
-Aluno: Alexandre Cicero Araujo Beiruth
-Curso: Ciências da Computação
-Matéria: Raciocinio Algoritmo
-Professor: Vilmar
-"""
 
 from random import randint
 
